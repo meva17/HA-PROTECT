@@ -19,7 +19,7 @@ The circuit consists of the following major components:
 * Fan - Provides cooling when excessive temperature is detected
 * Power Supply - Provides the required electrical power to the system
 
-#ircuit Architecture
+Circuit Architecture
 
 The ESP32 is connected to the environmental and battery monitoring sensors. The sensors continuously provide measurement data to the ESP32.
 
