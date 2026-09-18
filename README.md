@@ -1,3 +1,5 @@
+<img width="1600" height="772" alt="Battery_Measurement" src="https://github.com/user-attachments/assets/02eb83c3-b98d-4172-9462-ed484cfb165b" />
+<img width="1600" height="602" alt="Health_indicators" src="https://github.com/user-attachments/assets/91bf56b8-9eef-4e02-abdf-cfbeaf234592" />
 High-Altitude Electrical & Electronic Equipment Protection System-PROTECT Circuit Diagram
 
 Overview
